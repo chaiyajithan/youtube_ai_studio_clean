@@ -1,0 +1,9 @@
+streamlit
+streamlit-authenticator
+PyYAML
+bcrypt
+python-dotenv
+stripe
+openai
+moviepy
+gTTS

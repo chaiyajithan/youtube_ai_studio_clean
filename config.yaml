@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    johndoe:
+      email: johndoe@email.com
+      name: John Doe
+      password: '$2b$12$abc1234567890examplehashedpass'  # วาง hash จาก hash_password.py
+
+cookie:
+  name: my_app_cookie
+  key: some_signature_key
+  expiry_days: 30
